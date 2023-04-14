@@ -2,7 +2,7 @@
 int main()
 {
 int a[20],n,i;
-printf("enter array size:");
+printf("enter array size in this program:");
 scanf("%d",&n);
 printf("array elements are\n");
 for(i=0;i<n;i++)
